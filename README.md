@@ -10,4 +10,10 @@ The application consists of four screens the first screen includes the authentic
 I approach the development of my code first understanding what my code will need to be able to connect the function and requirements. I like to divide a big project into small tasks that I perfection and run successfully. This process will ensure the development of future projects is successful.
 
 # How did you test to ensure your code was functional? Why is this process important and what did it reveal?
-Since I decidedto divide the project into small tasks every part was tested independenly,and making sure that every part was successlly run before moving to the next one, so this helped r the end result since I did not have any problem in the last test. The process has to be organize and precise for the been oustanding in the final result.
+Since I decidedto divide the project into small tasks every part was tested independenly,and making sure that every part was successlly run before moving to the next one, so this helped the end result since I did not have any problems in the last test. The process has to be organized and precise the been outstanding in the final result.
+
+# Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+From beginning to end, I find it more challenging how to develop what I had on my mind like how I would be available to develop what I explain in my previous project. I develop everything independently and tested to ensure a quality product. 
+
+# In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+The organization and functionality of the project were the major areas where I showed the skill that I have been acquiring within the class. Also, problem-solving was one of the areas where I put much effort to increase the development of my project.
